@@ -22,4 +22,26 @@ git commit -m "my custom message"
 
 
 
-git push origin main 
+git push origin main
+
+--------------------------------------------------------------
+
+Process to create new branch from main
+
+git checkout main
+
+git checkout -b eighth-insider
+
+*** I will work on the branch
+
+git add .
+
+git commit -m "my custom message"
+
+git push origin eighth-insider
+
+
+
+
+
+
