@@ -30,7 +30,8 @@ Process to create new branch from main
 
 git checkout main
 
-git checkout -b eighth-insider
+git checkout -b eighth-insider 
+(If the branch already exists then we do - git checkout eighth-insider)
 
 *** I will work on the branch
 
