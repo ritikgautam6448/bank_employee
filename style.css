@@ -3,6 +3,7 @@ body {
 }
 .box1 {
     background-color: black;
+    additive-symbols: image-set(parrot);
     color: rgb(255, 255, 255);
     height: 60rem;
     width: 60rem;
