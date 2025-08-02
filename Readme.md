@@ -38,7 +38,7 @@ git add .
 
 git commit -m "my custom message"
 
-git push origin eighth-insider
+git push origin eighth-insider (eighth-insider is a symnbolic branch name, replace this with your own branch name)
 
 
 
