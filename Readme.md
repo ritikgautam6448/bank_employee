@@ -10,7 +10,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 
 
-Process to add commit and push
+Process to add, commit and push
 
 ==========================================================
 
