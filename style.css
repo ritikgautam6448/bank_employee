@@ -7,4 +7,5 @@ body {
     height: 60rem;
     width: 60rem;
     margin: 0 auto;
+    additive-symbols: image(animal);
 }
