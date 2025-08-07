@@ -1,0 +1,43 @@
+*{
+
+    margin: 0;
+    padding: :0;
+}
+logo{
+    width: 20px;
+    display: fle
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+
+}
+.logo img{
+    width: 50%;
+    height: 50%;
+}
+
+.navbar{
+    diplay:  flex ;
+
+}
+.nav-list li{
+      width:50;
+      background-color: blue;
+
+}
+.nav-list li{
+ list-style-type: style none;
+
+}
+  
+
+.nav-list a{
+
+}
+.nav-list a:hover{
+    background-color: red;
+    color:aliceblue
+    width:  50%;
+    text-align: :right
+}
+
