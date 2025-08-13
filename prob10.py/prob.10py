@@ -1,0 +1,2 @@
+def parrot trouble(taling, hour):
+return (taling and (hour<7 or hour >20))
